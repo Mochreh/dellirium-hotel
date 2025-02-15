@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dellirium-hotel-api", "dellirium-hotel-api\dellirium-hotel-api.csproj", "{583F7918-AB38-4DA6-AA17-5A7C888F0A64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data", "3. Data", "{62EE7569-193A-4A11-99D9-700D423E8924}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infraestructure", "4. Infraestructure", "{AD31F344-BCC1-494C-B04C-F6CD6E2D188F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Services", "2. Services", "{2F8BFD5C-6D05-44D1-867B-6A1722059A8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. API", "1. API", "{8510EC8A-D287-4F14-B2DA-2326F45970F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dellirium-hotel-services", "dellirium-hotel-services\dellirium-hotel-services.csproj", "{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dellirium-hotel-data", "dellirium-hotel-data\dellirium-hotel-data.csproj", "{0EF59561-85E1-44FD-AB1B-C91AC23820E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dellirium-hotel-infraestructure", "dellirium-hotel-infraestructure\dellirium-hotel-infraestructure.csproj", "{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583F7918-AB38-4DA6-AA17-5A7C888F0A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583F7918-AB38-4DA6-AA17-5A7C888F0A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583F7918-AB38-4DA6-AA17-5A7C888F0A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583F7918-AB38-4DA6-AA17-5A7C888F0A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF59561-85E1-44FD-AB1B-C91AC23820E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF59561-85E1-44FD-AB1B-C91AC23820E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF59561-85E1-44FD-AB1B-C91AC23820E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF59561-85E1-44FD-AB1B-C91AC23820E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{583F7918-AB38-4DA6-AA17-5A7C888F0A64} = {8510EC8A-D287-4F14-B2DA-2326F45970F6}
+		{3A93BDF5-FED9-490C-BA39-F6EA33DBBE58} = {2F8BFD5C-6D05-44D1-867B-6A1722059A8F}
+		{0EF59561-85E1-44FD-AB1B-C91AC23820E3} = {62EE7569-193A-4A11-99D9-700D423E8924}
+		{AE5D2ACE-FFDB-4569-B6F1-BBE93E1D305E} = {AD31F344-BCC1-494C-B04C-F6CD6E2D188F}
+	EndGlobalSection
+EndGlobal

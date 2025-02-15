@@ -1,0 +1,17 @@
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-services.deps.json
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-services.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-services.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-data.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-infraestructure.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-data.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\bin\Debug\net8.0\dellirium-hotel-infraestructure.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.AssemblyInfo.cs
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\delliriu.84FA33D2.Up2Date
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\refint\dellirium-hotel-services.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\dellirium-hotel-services.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-services\obj\Debug\net8.0\ref\dellirium-hotel-services.dll

@@ -1,0 +1,16 @@
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\dellirium-hotel-data.deps.json
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\dellirium-hotel-data.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\dellirium-hotel-data.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\dellirium-hotel-infraestructure.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\dellirium-hotel-infraestructure.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.AssemblyInfo.cs
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\delliriu.E2B49739.Up2Date
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\refint\dellirium-hotel-data.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\dellirium-hotel-data.pdb
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\obj\Debug\net8.0\ref\dellirium-hotel-data.dll
+D:\Projects\Visual Studio 2022\dellirium-hotel\dellirium-hotel-data\bin\Debug\net8.0\appsettings.json
